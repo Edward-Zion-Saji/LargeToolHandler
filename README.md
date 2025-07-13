@@ -1,5 +1,5 @@
 
-# MoralisSearch
+# ToolHandler
 
 A Python library for interacting with LLMs (Large Language Models) and function calling capabilities.
 
