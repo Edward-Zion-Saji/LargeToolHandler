@@ -1,6 +1,6 @@
 
 # ToolHandler
-
+# THIS IS NOW OBSOLETE, LLMs HAVE BIG CONTEXT WINDOWS NOW LOL
 A Python library for interacting with LLMs (Large Language Models) and function calling capabilities.
 
 ## Features
